@@ -1,7 +1,10 @@
 # Git Demo Repo
-Prosta apka na potrzeby nauki Gita
+To jest repo helper do używania Gita
 
-...
+## Zawartość
+* konfiguracja.md - plik opisujący najważniejsze komendy konfiguracji Gita
+
 ## Roadmoap
-	* Dodanie nowych funkcji
-	* Naprawa bug�w
+* Dodanie pliku z konfiguracją
+* Dodanie pliku z typowym przebiegiem
+* Dodanie pliku z komendami do rozwiązywania problemów
