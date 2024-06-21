@@ -2,7 +2,7 @@
 To jest repo helper do używania Gita
 
 ## Zawartość
-* konfiguracja.md - plik opisujący najważniejsze komendy konfiguracji Gita
+* **konfiguracja.md** - plik opisujący najważniejsze komendy konfiguracji Gita
 
 ## Roadmoap
 * Dodanie pliku z konfiguracją
